@@ -1,0 +1,9 @@
+/* rule 1 */
+*/*Simbolos especiales '*:es el universal' y especiales como +,>, virgulilla */ {
+  color: black;
+}
+
+/* rule 2 */
+h1 {
+  color: orange;
+}

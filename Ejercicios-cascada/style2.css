@@ -1,9 +1,10 @@
 /* rule 1 */
 #subsection {
+  background-color: yellow;
   color: blue;
 }
 
-/* rule 2 */
-.main .list {
+/* rule 2  decended combinator*/
+.main #subsection {
   color: red;
 }

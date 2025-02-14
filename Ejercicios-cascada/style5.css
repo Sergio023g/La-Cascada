@@ -1,0 +1,13 @@
+/* styles.css */
+
+#parent {
+  color: red;
+}
+
+.child {
+  color: blue;
+}
+
+/* es cuando se apunta directamente al elemento a pesar q=de que paren es un id, el child, tednra el estilo de coor blue ya que esta declaracon lo apunta direntamente mientras que color red solo se hereda */
+
+/* como determina la cascada que regla aplicar: la ultima es la ganadora */
